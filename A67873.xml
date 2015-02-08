@@ -130,12 +130,20 @@
             </p>
             <p>London printed for Henry Herringman 1660</p>
             <p> And Are to be Sould by Henry Herringman at the Ancker on the lowest side of the New-Exchange</p>
-            <figure>
-               <head>ANDREW COLTEE DUCAREL L.L.D. Doctor's Commons.</head>
-            </figure>
-            <figure>
-               <head>A POSSE AD ESSE.</head>
-            </figure>
+            <p>
+
+               <pb facs="tcp:121170:2" rendition="simple:additions"/>
+               <figure>
+                  <head>ANDREW COLTEE DUCAREL L.L.D. Doctor's Commons.</head>
+               </figure>
+            </p>
+            <p>
+
+               <pb facs="tcp:121170:3"/>
+               <figure>
+                  <head>A POSSE AD ESSE.</head>
+               </figure>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:121170:4"/>
@@ -803,9 +811,13 @@ due to them, greater or lesse, according to <note place="margin">Segar. <hi>l.</
                   </note> 
                   <hi>feodalis;</hi> and <hi>Vassallus capitalis. Hujusmodi sunt</hi> (saith he) <hi>qui Pagos, Urbes, Castra, vel ex<g ref="char:EOLhyphen"/>imiam ruris portionem, cum jurisdictione acce<g ref="char:EOLhyphen"/>perunt à Rege.</hi>
                </p>
-               <figure>
-                  <head>The Creation Robe of a Baron</head>
-               </figure>
+               <p>
+
+                  <pb facs="tcp:121170:30" rendition="simple:additions"/>
+                  <figure>
+                     <head>The Creation Robe of a Baron</head>
+                  </figure>
+               </p>
                <p>
                   <pb facs="tcp:121170:31"/>
 
@@ -1003,9 +1015,20 @@ causes that should else belong to the King's Bench, and Common Pleas, are triabl
                   </note> of the Exchequer, a Sheriffe, and other offices proportionably to those of the Crown at <hi>Westminster,</hi> which being since reserved in the Crown, is given to the Prince of <hi>Wales,</hi> when he is created. This County had this honor, I conceive, out of regard to the great trust, was reposed in the first Earl, which was to sub<g ref="char:EOLhyphen"/>due, and keep in order the <hi>British,</hi> or <hi>Welch</hi> af<g ref="char:EOLhyphen"/>ter the Conquest.</p>
                <p>Of those that are not Palatine, we find their Creation also as ancient as the Conquest, <hi>Willi<g ref="char:EOLhyphen"/>am theConqueror,</hi> made <hi>Alan Fergent</hi> thenDuke <note place="margin">Ib. fol. <hi>646</hi> &amp; Camd. Brit f. <hi>591.</hi>
                   </note> of <hi>Brittaign,</hi> Earl of <hi>Richmond,</hi> by a Patent.</p>
-               <figure>
-                  <head>The Creation Robe of a Marquesse</head>
-               </figure>
+               <p>Queen <hi>Maud,</hi> created <hi>Geoffry</hi> of <hi>Mandevile,</hi> Earl of <hi>Essex; Aubrey de Vere</hi> (Earl of <hi>Oxford</hi>) she made Earl of <hi>Cambridge,</hi> on condition, that if he could not enjoy it, to chuse <hi>Oxford, Bark<g ref="char:EOLhyphen"/>shire, Wiltshire,</hi> or <hi>Dorsetshire;</hi> and others of King <hi>Stephen,</hi> who is said to have wasted the Crown, by the many of them that he created. The manner of their ancient Patents, may be seen in Mr. <hi>Selden</hi> at large in his Titles of ho<g ref="char:EOLhyphen"/>nor: the Modern Patents may be also seen there, and in Sir <hi>William Segar's Honors Mili<g ref="char:EOLhyphen"/>tary and Civill.</hi> Where we find, that many times in their Patents, they had Rents annuall granted them, and sometimes lands for the supportation of the Title. To this Degree, be<g ref="char:EOLhyphen"/>longeth a Surcoat, Mantle, Hood, and Coro<g ref="char:EOLhyphen"/>net of gold with points, not flowers, (called
+
+
+<pb facs="tcp:121170:37"/>
+
+
+                  <pb facs="tcp:121170:38" rendition="simple:additions"/>
+                  <figure>
+                     <head>The Creation Robe of a Marquesse</head>
+                  </figure>
+
+
+                  <pb n="55" facs="tcp:121170:38"/>
+                  <hi>circulus aureus</hi>) a Sword and Cap of Honor. Which hath continued ever since <hi>Edward</hi> the sixt, being only before but <hi>per cincturam gladii.</hi> Which law was first also used by King <hi>John,</hi> to <hi>William de Ferrers</hi> Earl of <hi>Derby.</hi> That per<g ref="char:EOLhyphen"/>sonall, in <hi>England,</hi> is only Earl-Marshall of <hi>England.</hi> The first of these, that we find is <hi>Thomas</hi> of <hi>Mowbray,</hi> Earl of <hi>Notingham,</hi> made Earl Marshall, or <hi>Marescallus Angliae</hi> for life, and after to him and his Heirs Males of his body, by <hi>Richard</hi> the second. But since the 14. of Q. <hi>Elizabeth,</hi> the office hath been only for life again, to whom belongs as an Ensign of his authority, a Rod, or Staffe of Gold, ena<g ref="char:EOLhyphen"/>melled at each end with black.</p>
             </div>
             <div type="section">
                <head>Of the Marquesse.</head>
@@ -1021,9 +1044,31 @@ only the word <hi>Marchio</hi> is put in the place of <hi>Comes:</hi> the ceremo
             </div>
             <div type="section">
                <head>Of the Duke.</head>
-               <figure>
-                  <head>The Creation Robe of a Duke</head>
-               </figure>
+               <p>THis word, says Sir <hi>Henry Spelman,</hi> was <hi>no<g ref="char:EOLhyphen"/>men officiale,</hi> a title of office, afterwards Honorary, and since feudall and Hereditary. He is said to be called <hi>Duke, à ducendo,</hi> from <note place="margin">Segar. fol. <hi>218.</hi>
+                  </note> his leading an Army Imperiall; whom the <hi>Saxons</hi> called <hi>Hertshog;</hi> but they are since on<g ref="char:EOLhyphen"/>ly Dignities, given by Kings and Princes to
+
+
+<pb facs="tcp:121170:39" rendition="simple:additions"/>
+                  <figure>
+                     <head>The Creation Robe of a Duke</head>
+                  </figure>
+
+
+                  <pb facs="tcp:121170:40"/>
+
+
+                  <pb n="57" facs="tcp:121170:40"/>
+men of great blood, or excellent merit: This title hath been of ancienter standing in the Em<g ref="char:EOLhyphen"/>pire, and other Countries: but the first, that we find in <hi>England,</hi> is of the black Prince, created Duke of <hi>Cornwal,</hi> by <hi>Edward</hi> the third, <note place="margin">
+                     <hi>Sir</hi> Henry Spel. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <hi>237.</hi>
+                  </note> his father. By which creation, according to the Tenure of his Patent, the first-born sons of the Kings of <hi>England,</hi> are Dukes of <hi>Cornwall;</hi> neither is there any creation required for this honor, though there is for Prince of <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </p>
                <p>Where, by the way, one note is proper to be understood, that as he was here created with<g ref="char:EOLhyphen"/>out any Ceremony, except the girding with a Sword, so in all other degrees of honor, where a lesser degree is conferred on a person of a greater, there needs nothing but meer Patent, without any ceremony of creation.</p>
                <p>But <hi>John,</hi> son to <hi>Edward</hi> the third, being created Duke of <hi>Lancaster,</hi> had a Cap of furre added to the ceremony, and succeeding times have had the Sword, Crownet, and Verge of Gold, a Surcoat, Mantle and Hood, and a Ducal cap doubled Ermin, but not indented, and is honored with the style of, Gratious and Excellent.</p>
                <p>These if they be of Royall line, are reputed <note place="margin">
@@ -1680,46 +1725,57 @@ he is; if he be of the second, third, or fourth House, and what brother of that 
 
 <pb n="103" facs="tcp:121170:64"/>
 sometimes born in Arms, as Charges of the Coat; but when they are distinctions, it is ea<g ref="char:EOLhyphen"/>sily known by their singularity, either of place, position, or diminutive proportion.</p>
-            <figure>
-               <p>
-                  <list>
-                     <item>
-                        <hi>A,</hi> The Dexter chief.</item>
-                     <item>
-                        <hi>B,</hi> The precise mid<g ref="char:EOLhyphen"/>dle chief.</item>
-                     <item>
-                        <hi>C,</hi> The Sinister chief.</item>
-                     <item>
-                        <hi>D,</hi> The Honor point.</item>
-                     <item>
-                        <hi>E,</hi> The Fesse point.</item>
-                     <item>
-                        <hi>F,</hi> TheNombril point.</item>
-                     <item>
-                        <hi>G,</hi> The Dexter Base.</item>
-                     <item>
-                        <hi>H,</hi> The precise mid<g ref="char:EOLhyphen"/>dle Base.</item>
-                     <item>
-                        <hi>I,</hi> The Sinister Base.</item>
-                  </list>
-               </p>
-            </figure>
-            <figure>
-               <p>
-                  <list>
-                     <item>1, Invecked.</item>
-                     <item>2, Ingrayled.</item>
-                     <item>3, Wavy.</item>
-                     <item>4, Nebule.</item>
-                     <item>5, Embat<g ref="char:EOLhyphen"/>taild or Crenelle</item>
-                     <item>6, Indented</item>
-                     <item>7, Dancette</item>
-                  </list>
-               </p>
-            </figure>
+            <p>There is a care to be observed concerning the parts of the Escutcheon, as to the prehemi<g ref="char:EOLhyphen"/>nence of location for all charges, which are here marked thus,
+<figure>
+                  <p>
+                     <list>
+                        <item>
+                           <hi>A,</hi> The Dexter chief.</item>
+                        <item>
+                           <hi>B,</hi> The precise mid<g ref="char:EOLhyphen"/>dle chief.</item>
+                        <item>
+                           <hi>C,</hi> The Sinister chief.</item>
+                        <item>
+                           <hi>D,</hi> The Honor point.</item>
+                        <item>
+                           <hi>E,</hi> The Fesse point.</item>
+                        <item>
+                           <hi>F,</hi> TheNombril point.</item>
+                        <item>
+                           <hi>G,</hi> The Dexter Base.</item>
+                        <item>
+                           <hi>H,</hi> The precise mid<g ref="char:EOLhyphen"/>dle Base.</item>
+                        <item>
+                           <hi>I,</hi> The Sinister Base.</item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+            <p>There are severall crooked lines to be ob<g ref="char:EOLhyphen"/>served also, wherewith all the Ordinaries are many times made different and various, which are these:
+
+
+<pb n="104" facs="tcp:121170:65"/>
+               <figure>
+                  <p>
+                     <list>
+                        <item>1, Invecked.</item>
+                        <item>2, Ingrayled.</item>
+                        <item>3, Wavy.</item>
+                        <item>4, Nebule.</item>
+                        <item>5, Embat<g ref="char:EOLhyphen"/>taild or Crenelle</item>
+                        <item>6, Indented</item>
+                        <item>7, Dancette</item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
             <p>Of these lines, the two first differ onely in this, that the points of the ingrailed line are turned into the field, and the other contrary into the ordinary, that those lines do make. The two last are both one <hi>secundùm quale,</hi> onely differing <hi>secundùm quantum;</hi> the one being onely wider and deeper then the other.</p>
             <p>And when any of these Ordinaries are drawn withthese lines, the Blazoner is to say, A Bend, Chief, Pale, or what it is; Invecked, Ingrayled, Wavy, or the like: But if plain, then onely to name the Ordinary with its colours, according to the following examples.</p>
-            <figure/>
+            <p>
+
+               <pb n="105" facs="tcp:121170:65"/>
+               <figure/>
+            </p>
             <p>1, A Crosse. 2, A Chief, 3, A Pale. 4, A Bend. 5, a Fesse. 6, An Inescutcheon. 7, A Cheveron. 8, A Saltyr. 9, A Barre.</p>
             <p>The last of which Ordinaries may easily be mistaken for the same, or at least a diminutive of the fifth; but it is not: and they are distin<g ref="char:EOLhyphen"/>guished by the space they possesse in the field, and also by this difference, the Barre hath li<g ref="char:EOLhyphen"/>berty all over the field with its diminutions; the Fesse onely one proper place.</p>
             <p>These Ordinaries according to <hi>Leigh</hi> do possesse these proportions of the field.</p>
@@ -1822,7 +1878,11 @@ For, if not for Loyalty, Honor, or the Punish<g ref="char:EOLhyphen"/>ment of ot
                </gap> as well as the additions of Honor, I am brought by my Method to the main body of this gene<g ref="char:EOLhyphen"/>rall work of Armory, which is the variety of bearing the Ordinaries, and after the accidents more common; as of Birds, Beasts, Fishes, Plants, Mechanicall things, &amp;c.</p>
             <p>And for the first (as in my estimation very reasonably) the most honorable, I begin with the Crosse, and its various kinds of bearings, being more numerous by much than any of the other Ordinaries. This hath its position in the greatest and most eminent parts of the Shield; and therefore it is much to me, that Mr <hi>Guil<g ref="char:EOLhyphen"/>lim,</hi> and others, should place it last of all the Ordinaries.</p>
             <p>The Crosse, if uncharged, possesseth the fifth part of the Field; but, if charged, the third. The varieties I have placed in two Shields, as first in this.</p>
-            <figure/>
+            <p>
+
+               <pb n="112" facs="tcp:121170:69"/>
+               <figure/>
+            </p>
             <p>In the first quarter is <hi>Azure,</hi> a plain Crosse <hi>Or,</hi> the Coat of the <hi>Sheltons</hi> of <hi>Norfolk.</hi>
             </p>
             <p>The second is <hi>Gules,</hi> a Crosse crossed upon three Grees <hi>Or,</hi> by the name of <hi>Jones</hi> in <hi>Den<g ref="char:EOLhyphen"/>byshire.</hi>
@@ -1853,7 +1913,11 @@ This piercing a Crosse, is alwayes known from a charge on it, by the colour of i
             <p>The ninth <hi>Azure,</hi> a Crosse potten fitched <hi>Or,</hi> the Coat Armour of <hi>Ethelbert,</hi> King of the <hi>West-Saxons,</hi> as saith <hi>Guillim.</hi>
             </p>
             <p>The second Escut cheon represents, as ma<g ref="char:EOLhyphen"/>ny as I have exprest in the first, and those as strange.</p>
-            <figure/>
+            <p>
+
+               <pb n="114" facs="tcp:121170:70"/>
+               <figure/>
+            </p>
             <p>The first is a Crosse formy flory.</p>
             <p>The second is a Crosse bottony.</p>
             <p>The third a Crosse couped <hi>Or,</hi> charged with a pellet in the fesse point or center.</p>
@@ -1877,7 +1941,11 @@ fesse. By which example may be seen, that ma<g ref="char:EOLhyphen"/>ny times, s
             <p>The next of these Ordinaries to be exem<g ref="char:EOLhyphen"/>plified, is the Chief, which is variously born <gap reason="illegible" resp="#APEX" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> thus.</p>
-            <figure/>
+            <p>
+
+               <pb n="116" facs="tcp:121170:71"/>
+               <figure/>
+            </p>
             <p>The first <hi>Gule,</hi> a chief <hi>Argent</hi> by the name of <hi>Worksley.</hi>
             </p>
             <p>The second <hi>Tenne,</hi> a chief Shapernette Ermine.</p>
@@ -1896,7 +1964,11 @@ which, very rarely, are any of the rest; as in the next example.</p>
             </p>
             <p>The last is <hi>Gules,</hi> two barres and a chief in<g ref="char:EOLhyphen"/>dented <hi>Or;</hi> by which is seen that this Ordi<g ref="char:EOLhyphen"/>nary is sometimes also formed of the crooked lines; as all the rest are.</p>
             <p>The pale doth not only vary its form, as the rest with crooked lines, but hath its diminutives too; as in this example.</p>
-            <figure/>
+            <p>
+
+               <pb n="118" facs="tcp:121170:72"/>
+               <figure/>
+            </p>
             <p>The first is <hi>Gules</hi> a pale <hi>Or;</hi> the Coat Ar<g ref="char:EOLhyphen"/>mour of the Lord <hi>Hinkley.</hi>
             </p>
             <p>The second <hi>Azure</hi> a pallet <hi>Argent,</hi> which possesseth the half part of a pale.</p>
@@ -1995,7 +2067,11 @@ The third <hi>Argent,</hi> a Fesse and Canton <hi>Gules,</hi> by the name of <hi
             </p>
             <p>As for the Escutcheon born as an Ordinary, I find very little variety, only sometimes it is called an Inescutcheon, which is when thus born, which is Ermin an Inescutcheon <hi>Gules,</hi> by the name of <hi>Hulgrave.</hi>
             </p>
-            <figure/>
+            <p>
+
+               <pb n="124" facs="tcp:121170:75"/>
+               <figure/>
+            </p>
             <p>And sometimes an Escutcheon, as when more then one is in the field, as thus in the se<g ref="char:EOLhyphen"/>cond which is <hi>Argent,</hi> three Escutcheons <hi>Sable,</hi> by Sir <hi>John Loudham</hi> of <hi>Suffolk.</hi>
             </p>
             <p>Sometimes these are charged only with augmentations of honor, and sometimes the field is charged with other Ordinaries promi<g ref="char:EOLhyphen"/>scuously with these as in the third, which is <hi>Or,</hi> a barruler between two barres gemels, <hi>Gules,</hi> three Escutcheons vayre, by the name of <hi>Gamolle.</hi>
@@ -2033,7 +2109,11 @@ to this Ordinary, as transposition, coupings, voidings, and reversing, besides i
             <p>The ninth is <hi>Gules,</hi> three Cheveronels re<g ref="char:EOLhyphen"/>versed <hi>Or.</hi>
             </p>
             <p>The Saltyre, is an Ordinary formed of a fourfold line, two from the dexter chief, ex<g ref="char:EOLhyphen"/>tending towards the sinister base, and two towards the dexter base from the sinister chief, meeting in fesse by couples in acute angles; in the nature of that which we usually call, a Saint <hi>Andrews</hi> Crosse.</p>
-            <figure/>
+            <p>
+
+               <pb n="127" facs="tcp:121170:76"/>
+               <figure/>
+            </p>
             <p>The first is <hi>Argent,</hi> a Saltyre <hi>Gules,</hi> by the ancient and Noble Family of the <hi>Gerrards</hi> of <hi>Lancashire.</hi>
             </p>
             <p>The second is <hi>Azure,</hi> a Saltyre quarterly quarter'd <hi>Or, &amp; Argent,</hi> the Arms of the Epis<g ref="char:EOLhyphen"/>copall Sea of <hi>Bath</hi> and <hi>Wells.</hi>
@@ -2084,7 +2164,11 @@ The second <hi>Argent,</hi> three Barres and a Can<g ref="char:EOLhyphen"/>ton <
             <p>In the next I shall shew some other forms of Charges, framed of such like lines in the Escut<g ref="char:EOLhyphen"/>cheons; and then proceed to shew <gap reason="illegible" resp="#APEX" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> all the partings &amp; counterchanges.</p>
-            <figure/>
+            <p>
+
+               <pb n="130" facs="tcp:121170:78"/>
+               <figure/>
+            </p>
             <p>First then, as in this shield there is <hi>Or,</hi> an Orle <hi>Azure,</hi> by the name of <hi>Bartram</hi> Lord of <hi>Bothall.</hi>
             </p>
             <p>The second is <hi>Or,</hi> an Orle of three pieces <hi>
@@ -2193,7 +2277,11 @@ The fifth is barry pily of eight pieces <hi>Gules,</hi> and <hi>Or,</hi> by the 
             <div type="section">
                <head>Of Celestialls.</head>
                <p>As for Celestialls, I shall skip over some of them, as Angells, Cherubims, and the like, because they are obvious enough to every man's judgment, when ever they are met with; as some of these examples are also.</p>
-               <figure/>
+               <p>
+
+                  <pb n="137" facs="tcp:121170:81"/>
+                  <figure/>
+               </p>
                <p>The first of these quarterings shews the ex<g ref="char:EOLhyphen"/>ample of <hi>Gules</hi> an Increscent <hi>Or,</hi> by the name of <hi>Descus.</hi>
                </p>
                <p>The second <hi>Azure,</hi> the Sun in its full glory, by the name of St. <hi>Cleere.</hi>
@@ -2213,7 +2301,11 @@ The fourth is <hi>Azure,</hi> a Moon in her com<g ref="char:EOLhyphen"/>plement 
                </p>
                <p>The ninth is <hi>Azure</hi> a Comet <hi>Or,</hi> streaming proper.</p>
                <p>And unto these I have added one more Es<g ref="char:EOLhyphen"/>cutcheon of the like bearings, because of the rareness of them.</p>
-               <figure/>
+               <p>
+
+                  <pb n="139" facs="tcp:121170:82"/>
+                  <figure/>
+               </p>
                <p>The first is <hi>Azure, Jupiters</hi> Thunderbolt in Pale <hi>Or,</hi> enflamed at both ends proper, shaf<g ref="char:EOLhyphen"/>ted Saltyre-wayes, and winged Fesse-wayes, <hi>Argent.</hi>
                </p>
                <p>The second <hi>Argent,</hi> a Rain-bowe proper, is<g ref="char:EOLhyphen"/>suing out of two peteet clowds in fesse <hi>Azure.</hi>
@@ -2269,7 +2361,11 @@ second, being before two Lions, the posture and colours one; then indeed called 
                <p>The last is <hi>Gules,</hi> a tri-corporated Lion issu<g ref="char:EOLhyphen"/>ing out of three corners of the field, and meet<g ref="char:EOLhyphen"/>ing under one head in fesse <hi>Or;</hi> which was the Coat-Armor of <hi>Edward Crouchback</hi> Earl of <hi>Lancaster.</hi> Lions are sometimes with the tail elevated over the head, sometimes with the tail forked, and sometimes you shall meet with Demy-Lions, which is half Lions passant and Rampant, and sometimes heads, erased or couped; but if Cabossed, then they are ever <gap reason="illegible" resp="#APEX" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> Leopards heads, as in these examples.</p>
-               <figure/>
+               <p>
+
+                  <pb n="143" facs="tcp:121170:84"/>
+                  <figure/>
+               </p>
                <p>The first <hi>Azure</hi> on a chief <hi>Or,</hi> a Demy-Lion Rampant issuant out <hi>Gules,</hi> languid and armed of the first, by the name of <hi>Markham.</hi>
                </p>
                <p>The second is <hi>Azure,</hi> three Demy-Lions pas<g ref="char:EOLhyphen"/>sant guardant, <hi>Or,</hi> languid, and armed <hi>Gules,</hi> by the name of <hi>Hammon</hi> of <hi>Acris</hi> in <hi>Kent.</hi>
@@ -2334,7 +2430,11 @@ The seventh is <hi>Argent</hi> a Lyons head erased <hi>Gules,</hi> by the name o
             <div type="section">
                <head>Of Birds.</head>
                <p>THe second sort of the most Noble sensi<g ref="char:EOLhyphen"/>tives are Foules of the Ayr: all which I shall comprise in a very short example. On<g ref="char:EOLhyphen"/>ly, by the way, this note is to be observed; that as I have disposed them all into an order; so are they in degrees of excellency in Armory. And again when any quick things are born, it is most commendable when born in the most generous and noble action, or the most proper to its nature.</p>
-               <figure/>
+               <p>
+
+                  <pb n="148" facs="tcp:121170:87"/>
+                  <figure/>
+               </p>
                <p>Of these the first is <hi>Sables</hi> a Swan with her wings expansed <hi>Arg.</hi> membred <hi>Or,</hi> within a bordure engrayled of the same, by the name of <hi>Moore.</hi>
                </p>
                <p>The second is Ermin an Eagle displayed, <hi>Gules,</hi> armed <hi>Or.</hi>
@@ -2435,7 +2535,11 @@ The fourth is <hi>Arg.</hi> a Cheveron <hi>Gules,</hi> be<g ref="char:EOLhyphen"
             <div type="section">
                <head>Of Monsters:</head>
                <p>ANd here before I proceed to dead and artificial things, I think it proper to take observation of some Monsters in nature, which are often born in Arms.</p>
-               <figure/>
+               <p>
+
+                  <pb n="154" facs="tcp:121170:90"/>
+                  <figure/>
+               </p>
                <p>And the first of these is <hi>Arg.</hi> a Griffen ram<g ref="char:EOLhyphen"/>pant with wings displayed <hi>Sables,</hi> by the name of <hi>Morgan.</hi>
                </p>
                <p>The second is <hi>Arg.</hi> a Wiverne, his wings displayed, and tayl nowed <hi>Gules,</hi> by the name of <hi>Drake.</hi>
@@ -2605,7 +2709,11 @@ The fourth <hi>Gules,</hi> an Anchor in pale <hi>Arg.</hi> the cros-piece <hi>Or
             <div type="section">
                <head>Of Mechanical things.</head>
                <p>THe last example, that I shall insert, is of other more ordinary Mechanical things.</p>
-               <figure/>
+               <p>
+
+                  <pb n="164" facs="tcp:121170:95"/>
+                  <figure/>
+               </p>
                <p>The first is <hi>Arg.</hi> a Cheveron between three Palmers scrips <hi>Sables,</hi> the tassels and buckles <hi>Or,</hi> by Sir <hi>Henry Palmer</hi> of <hi>Kent.</hi>
                </p>
                <p>The second is <hi>Gules,</hi> a Cheveron between three <hi>Irish</hi> Broges, <hi>Or.</hi>
